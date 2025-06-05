@@ -26,8 +26,7 @@ SECRET_KEY = 'django-insecure-yp2*luom0!lf_p&m4_eqyhwxsqg8*clod^347miu4u-o0ic80k
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['libreasy.onrender.com']
 # Application definition
 
 INSTALLED_APPS = [
